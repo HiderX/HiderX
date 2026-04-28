@@ -1,24 +1,40 @@
-# H1
+<samp><sub>PERSONAL PROFILE · GO BACKEND · LINUX · AI INFRA</sub></samp>
 
-## H2
+# Yicheng
 
-```go
-import aaa
-```
+My current interests sit around backend engineering, Linux, and AI infrastructure. Recently, I have also been spending time on C++, CS336, and the CS61A/B/C series to strengthen my systems and fundamentals.
 
-`inline`  
+### About
 
-**加粗**
+- Building backend services in Go
+- Interested in systems, infrastructure, and reliability
+- Learning by reading source code, writing tools, and refining foundations
 
-*sss斜体*
+### Current Focus
 
-> fff
-> 
+- Go backend architecture and service engineering
+- Linux as a daily working environment
+- AI infra fundamentals and low-level systems knowledge
 
-| ss | aa | bb |
-| --- | --- | --- |
-|  | ss |  |
-|  |  |  |
-|  |  |  |
+### Learning
 
-![](https://images.unsplash.com/photo-1610116306796-6fea9f4fae38?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb)
+- C++
+- CS336
+- CS61A
+- CS61B
+- CS61C
+
+### Stats
+
+<p align="left">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=hiderx&show_icons=true&theme=transparent&hide_border=true&title_color=171717&text_color=4B4B4B&icon_color=6B6458"
+    alt="Yicheng's GitHub stats"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hiderx&layout=compact&langs_count=8&card_width=320&theme=transparent&hide_border=true&title_color=171717&text_color=4B4B4B"
+    alt="Yicheng's top languages"
+  />
+</p>
