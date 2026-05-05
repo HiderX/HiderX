@@ -2,7 +2,7 @@
 
 # Yicheng
 
-My current interests sit around backend engineering, Linux, and AI infrastructure. Recently, I have also been spending time on C++, CS336, and the CS61A/B/C series to strengthen my systems and fundamentals.
+My current interests sit around backend engineering, Linux, and AI infrastructure. Recently, I have also been spending time on C++, CS336, and the CS61A/C series to strengthen my systems and fundamentals.
 
 ### About
 
@@ -21,8 +21,8 @@ My current interests sit around backend engineering, Linux, and AI infrastructur
 - C++
 - CS336
 - CS61A
-- CS61B
 - CS61C
+- MIT6.824(6.5840)
 
 ### Stats
 
